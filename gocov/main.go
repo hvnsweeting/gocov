@@ -26,7 +26,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/axw/gocov"
+	"github.com/hvnsweeting/gocov"
 )
 
 func usage() {
